@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ff94b2-2d93-4cc9-bbed-d850c53d76e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/diabetes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
+    <list default="true" id="76ff94b2-2d93-4cc9-bbed-d850c53d76e8" name="Changes" comment="Tool bilan ishlash mustahkamlandi.">
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Langchain-Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Langchain-Basics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module 2/bonus_rag.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module 2/bonus_rag.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +57,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;book&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/azizbek/Python/Lessons/LLM/Langchain-Basics/data&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/azizbek/TOZALOVCHI-AI&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.AcpAgentsConfigurable&quot;
   }
 }</component>
@@ -87,6 +81,30 @@
       <option name="presentableId" value="Default" />
       <updated>1767507966068</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tool bilan ishlash mustahkamlandi.">
+      <option name="closed" value="true" />
+      <created>1772176618645</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772176618646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tool bilan ishlash mustahkamlandi." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tool bilan ishlash mustahkamlandi." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/test.ipynb</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
